@@ -1,0 +1,17 @@
+
+{
+  "name": "RZL Healt Treadmill HRM BLE",
+  "version": "1.2.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        {
+          "path": "firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
